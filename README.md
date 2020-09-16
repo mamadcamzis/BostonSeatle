@@ -23,6 +23,8 @@ In both cities (Seattle, Boston) we have three dataset:
 - Listings, including full descriptions and average review score
 - Reviews, including unique id for each reviewer and detailed comments
 - Calendar, including listing id and the price and availability for that day
+
+All the source code is in boston_seattle_blog.ipynb
 ## Required libraries
 - Pandas
 - Numpy
