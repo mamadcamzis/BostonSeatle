@@ -37,3 +37,5 @@ All the source code is in boston_seattle_blog.ipynb
 - Bedrooms and Bathrooms are most important in model predicting price in Seattle. Private room are most important features in model predicting price in Boston.
 ## Acknowlegement
 Thank you Airbnb for providing the data and Udacity for in-depth tutorials to make learning fun.
+
+Link to my medium post [https://medium.com/@camara0388/my-first-blog-for-airbnb-boston-and-seattle-data-set-e18f9a798765?sk=f4b995621c558b8726ba14440a01b966]
